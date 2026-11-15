@@ -8,7 +8,6 @@ Twitch配信向けのWindowsデスクトップアプリです。
 
 - 対象：Windows 10 / 11 x64
 - `StreamerLaunchBox-Setup-*.exe`：本体。基本ガチャを同梱しています。
-- `LaunchBoxSlot` / `LaunchBoxRoulette` / `LaunchBoxPrizeRoulette` / `LaunchBoxPachinko`：追加ゲームの個別インストーラー。
 - `SHA256SUMS.txt`：配布ファイルの照合用ハッシュ。
 
 .NET実行環境を同梱しています。WebView2など別の依存要件は、Windows環境によって準備が必要です。
