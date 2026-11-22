@@ -1,8 +1,8 @@
 # Streamer Launch Box
 
-Twitch配信向けのWindowsデスクトップアプリです。
+Streamer Launch BoxはTwitch配信向けのデスクトップアプリです。
 
-## ダウンロード
+## Windows 正式版
 
 [最新版のインストーラーはこちら](https://github.com/UtahArts/StreamerLaunchBox-Releases/releases/latest)
 
@@ -12,7 +12,15 @@ Twitch配信向けのWindowsデスクトップアプリです。
 
 .NET実行環境を同梱しています。WebView2など別の依存要件は、Windows環境によって準備が必要です。
 
-## アプリの更新
+## macOS 試作版
+
+[macOS試作版 v0.1.0 のダウンロード](https://github.com/UtahArts/StreamerLaunchBox-Releases/releases/tag/mac-preview-v0.1.0)
+
+- 対象は macOS 14 以降。Apple Silicon（Mシリーズ）用とIntel Mac用のZIPを用意しています。
+- プリセットに登録したアプリ・フォルダー・Webページを一括で開けます。
+- **実機動作テスト未実施。** AppleのDeveloper ID署名と公証も未実施です。
+
+## Windowsアプリの更新
 
 0.2.41以降は、アプリの「情報 → アプリの更新」からGitHub Releasesの正式版を確認できます。GitHubへのログインは不要です。
 
